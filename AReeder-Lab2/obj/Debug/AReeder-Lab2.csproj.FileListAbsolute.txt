@@ -1,0 +1,12 @@
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\bin\Debug\CityDB.mdf
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\bin\Debug\CityDB_log.ldf
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\obj\Debug\AReeder-Lab2.csproj.AssemblyReference.cache
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\obj\Debug\AReeder_Lab2.Form1.resources
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\obj\Debug\AReeder_Lab2.Properties.Resources.resources
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\obj\Debug\AReeder-Lab2.csproj.GenerateResource.cache
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\obj\Debug\AReeder-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\obj\Debug\AReeder-Lab2.exe
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\obj\Debug\AReeder-Lab2.pdb
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\bin\Debug\AReeder-Lab2.exe.config
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\bin\Debug\AReeder-Lab2.exe
+C:\Users\Amajyah\OneDrive\Desktop\C# Practice\AReeder-Lab2\bin\Debug\AReeder-Lab2.pdb
